@@ -1,6 +1,6 @@
 '''
 -------------------------------------------
-Python Music Player v1.3 alpha
+Python Music Player
 Sammy Potter – July 2019
 Python 3.6.5
 -------------------------------------------
