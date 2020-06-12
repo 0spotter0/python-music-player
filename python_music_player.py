@@ -15,8 +15,8 @@ music ->	.mp3 files
 		python_music_player.py
 		Python Music Player.command
 		player ->	gui
-					thumbnails
-					timestamps
+				thumbnails
+				timestamps
 -------------------------------------------						
 '''
 
