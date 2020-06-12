@@ -12,11 +12,11 @@ containing many different songs.
 -------------------------------------------
 Folder tree (required)
 music ->	.mp3 files
-			python_music_player.py
-			Python Music Player.command
-			player ->	gui
-						thumbnails
-						timestamps
+		python_music_player.py
+		Python Music Player.command
+		player ->	gui
+					thumbnails
+					timestamps
 -------------------------------------------						
 '''
 
